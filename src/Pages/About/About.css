@@ -1,0 +1,28 @@
+.About_in{
+  margin-bottom: 30px;
+  color: white;
+  font-family: Freehand;
+  
+}
+.About_img{
+  width: 30%;
+  border-radius: 20px;
+}
+.About_txt{
+  width: 60%;
+  padding-left: 25px;
+}
+.About_bot p{
+  margin-bottom: 20px;
+}
+.About_tit{
+  margin-bottom: 20px;
+}
+.About_txt b{
+  display: block;
+  margin-bottom: 8px;
+}
+.About{
+  font-size: 20px;
+  color: green;
+}
