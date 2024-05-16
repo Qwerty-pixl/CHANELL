@@ -5,46 +5,45 @@ function Contacts() {
   return (
     <section className="Contacts">
       <Title>Contacting Chanel</Title>
-      <h3 className="Contacts_tit">Sales and Product Inquiries</h3>
+      
       <div className="Contacts_in">
         <div className="Contacts_block">
-          <div className="Contacts_block-tit">Chanel Online Store</div>
-          <p className="Contacts_block-txt">Chanel advisors are available to answer all your questions. Please email us or call +44 (0) 203 943 5555.
-
+          <div className="Contacts_block-tit"></div>
+          <p className="Contacts_block-txt">
 </p>
-          <p className="Contacts_block-txt">Chanel advisors are available to answer all your questions. Please email us or call +44 (0) 203 943 5555.
-
-</p>
-        </div>
-        <div className="Contacts_block">
-          <div className="Contacts_block-tit">Shop with SignTime ASL Support</div>
-          <p className="Contacts_block-txt">Chanel advisors are available to answer all your questions. Please email us or call +44 (0) 203 943 5555.
+          <p className="Contacts_block-txt">
 
 </p>
         </div>
         <div className="Contacts_block">
-          <div className="Contacts_block-tit">Chanel Retail Stores</div>
-          <p className="Contacts_block-txt">Chanel advisors are available to answer all your questions. Please email us or call +44 (0) 203 943 5555.
-
-</p>
-          <p className="Contacts_block-txt">Chanel advisors are available to answer all your questions. Please email us or call +44 (0) 203 943 5555.
+          <div className="Contacts_block-tit"></div>
+          <p className="Contacts_block-txt">
 
 </p>
         </div>
         <div className="Contacts_block">
-          <div className="Contacts_block-tit">Find Consultants</div>
-          <p className="Contacts_block-txt">Visit our Chanel Consultants Network page to find a consultant in the U.S. or Canada.</p>
-          <p className="Contacts_block-txt">Visit the Chanel Training website for information on available courses and Apple Authorized Training Providers worldwide.</p>
+          <div className="Contacts_block-tit"></div>
+          <p className="Contacts_block-txt">.
+
+</p>
+          <p className="Contacts_block-txt">5.
+
+</p>
         </div>
         <div className="Contacts_block">
-          <div className="Contacts_block-tit">How to Buy for Business</div>
-          <p className="Contacts_block-txt">If you are a business or professional user, visit the Apple Store for Business or call 1–800–854–3680.</p>
-          <p className="Contacts_block-txt">If you are a student or teacher, visit the Chanel Store for Education or call 1–800–692–7753.</p>
+          <div className="Contacts_block-tit"></div>
+          <p className="Contacts_block-txt">.</p>
+          <p className="Contacts_block-txt">.</p>
         </div>
         <div className="Contacts_block">
-          <div className="Contacts_block-tit">Find Chanel Authorized Resellers</div>
-          <p className="Contacts_block-txt">Use our Reseller Locator to find an Apple Authorized Reseller in the U.S.</p>
-          <p className="Contacts_block-txt">Chanel Authorized Resellers offer industry expertise, multi-platform services, and Mac-based solutions for a wide variety of organizations.</p>
+          <div className="Contacts_block-tit"> </div>
+          <p className="Contacts_block-txt"></p>
+          <p className="Contacts_block-txt">.</p>
+        </div>
+        <div className="Contacts_block">
+          <div className="Contacts_block-tit">s</div>
+          <p className="Contacts_block-txt">U.</p>
+          <p className="Contacts_block-txt"></p>
         </div>
       </div>
       <div className="Contacts_map">

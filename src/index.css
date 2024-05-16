@@ -61,10 +61,9 @@ textarea{
 body{
 	font-size: 16px;
 	line-height: 1.2;
-	color: green;
 	width: 100%;
 	font-family: 'Open Sans', arial, sans-serif;
-	background:grey;
+	
 }
 .container{
 	max-width: 1325px;

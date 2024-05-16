@@ -1,8 +1,8 @@
 .Btn {
-  border-radius: 118px;
-  border: 2px solid #2c2f24;
-  transition: 0.3s;
-  color: #182226;
+  
+  border: 2px solid #e17ab4;
+  transition: 0.5s;
+  color: #ff76d1;
   text-align: right;
   font-size: 16px;
   font-weight: 700;
@@ -10,6 +10,6 @@
   padding: 12px 24px;
 }
 .Btn:hover {
-  background: #2c2f24;
+  background: #ee66ce;
   color: #fff;
 }
