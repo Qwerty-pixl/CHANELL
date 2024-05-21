@@ -12,14 +12,20 @@ function Header() {
           <Logo />
           <Menu />
           <div className="Buttons flex">
-            <Button>Login</Button>
-            <Button>Sign In</Button>
+            <Button>LOGIN</Button>
+            <Button>SIGN IN</Button>
           </div>
           <Link to="/cart" className="Cart_ic">
-            <span>10</span>
+            <span>30</span>
           </Link>
         </div>
       </div>
+
+
+
+
+
+     
     </header>
   );
 }

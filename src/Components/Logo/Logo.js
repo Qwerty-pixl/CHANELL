@@ -1,6 +1,6 @@
 import './Logo.css';
 import {Link} from 'react-router-dom'
-import logo from '../../img/chanelka.jpg'
+import logo from '../../img/iconka.png'
 
 function Logo() {
   return (

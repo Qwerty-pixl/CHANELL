@@ -102,27 +102,16 @@ function Home() {
       <div className="container">
         <nav className="navbar">
           <div className="navbar-brand">
-            <h1 className="title">Мир Ароматов Chanel</h1>
+            <h1 className="title">World of CHANEL fragrances</h1>
           </div>
           {/* Дополнительные элементы навигации или функциональные элементы */}
         </nav>
+
       </div>
-      
+      <div>
 
-    <div className="AboutChanel">
-      <p className="MyChanel"> Discover the Essence of Elegance with Chanel
-Welcome to the world of Chanel, where timeless elegance meets modern sophistication. Immerse yourself in our exquisite collection of fragrances that embody the spirit of luxury and refinement.<p/>
-
-<p className="MyChanel"> Iconic Fragrances
-Explore our legendary fragrances that have become synonymous with style and grace. From the timeless allure of Chanel No. 5 to the fresh and vibrant notes of Chance, each scent is a masterpiece crafted with the finest ingredients.<p/>
-
-<p className="MyChanel">Exclusive Collections
-Indulge in our exclusive collections, designed for those who seek the extraordinary. Whether you're looking for a signature scent or a special gift, our limited-edition fragrances offer an unparalleled experience of luxury and exclusivity.<p/>
-
-<p className="MyChanel">The Art of Perfumery
-At Chanel, we believe in the art of perfumery. Our expert perfumers combine traditional techniques with innovative processes to create scents that are both classic and contemporary. Discover the story behind each fragrance and the inspiration that brings it to life.</p>
-    </div>
-
+      </div>
+<p className="chanel">While Chanel found immense success as a designer, the financial basis of her empire was Chanel No. 5. She developed the phenomenally successful perfume in 1921 with the help of Ernest Beaux, one of the most talented perfume creators in France. It has been said that the perfume got its name from the series of scents that Beaux created for Chanel to sample—she chose the fifth, a combination of jasmine and several other floral scents that was more complex and mysterious than the single-scented perfumes then on the market. Others, however, have noted that Chanel was superstitious and considered five to be her lucky number. That Chanel was the first major fashion designer to introduce a perfume and that she replaced the typical perfume packaging with a simple and sleek bottle also added to the scent’s success. The bottle’s top featured interlocking Cs, which later became the Chanel brand’s insignia.</p>
     </>
   )
 }

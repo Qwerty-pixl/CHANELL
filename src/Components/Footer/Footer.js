@@ -10,7 +10,7 @@ function Footer() {
         <div className="Foot flex">
           <Logo />
           <div className="Foot_menu">
-            <p className="Foot_tit">Menu</p>
+            <p className="Foot_tit">MAIN</p>
             <div className="Foot_menu-in flex">
               <Menu />
               <p>
@@ -18,20 +18,11 @@ function Footer() {
               </p>
             </div>
           </div>
-          <div className="Foot_links-wrap">
-            <p className="Foot_tit">Links</p>
-            <div className="Foot_links flex">
-              <Link className="Foot_link Foot_link__inst" />
-              <Link className="Foot_link Foot_link__fb" />
-              <Link className="Foot_link Foot_link__tw" />
-            </div>
-          </div>
-        </div>
-        <div className="Foot_bot">
+        
           <p>
           This Privacy Policy was last updated on March 2023. We will inform you with regard to any substantial changes which may be made to this Privacy Policy.
           </p>
-          <p>Copyright © 2024 Chanel. All rights reserved.</p>
+          <p>.</p>
         </div>
       </div>
     </footer>
